@@ -14,5 +14,4 @@ I'm Niyazi. I work in the fields of software and devops, I am interested in elec
 
 ##### My Ecommerce Project
 * [Moodart](https://moodart.net)
-* [Sihirli Masallar](https://sihirlimasallar.com)
 
