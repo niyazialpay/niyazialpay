@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Niyazi. I work in the fields of software and devops, I am interested in electronics and music as a hobby.
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyazialpay&layout=compact&theme=merko">
 
 #### My Blogs
