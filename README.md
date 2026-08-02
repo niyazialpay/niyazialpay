@@ -152,6 +152,7 @@ Infrastructure automation for deploying OpenVPN resources on DigitalOcean with T
 
 * 📝 [Niyazi.Net](https://niyazi.net) — Programming, software and technology
 * 🌍 [XSayfa](https://xsayfa.com) — Science, technology, art and culture
+* 📰 [BirDergi](https://birdergi.org) — BirDer Association’s digital magazine featuring e-magazine issues and articles published online
 
 ## Personal Projects
 
