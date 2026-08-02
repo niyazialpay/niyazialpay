@@ -2,7 +2,7 @@
 
 # Hi, I'm Niyazi 👋
 
-### Software Engineer · Backend Developer · DevOps Enthusiast
+### Software Developer · DevOps Enthusiast
 
 I build backend applications, APIs, infrastructure automation tools and self-hosted systems.
 
