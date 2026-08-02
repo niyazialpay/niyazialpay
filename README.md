@@ -136,7 +136,7 @@ Infrastructure automation for deploying OpenVPN resources on DigitalOcean with T
 
 <div align="center">
 
-<img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Niyazi Alpay GitHub profile details">
+<img width="98%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Niyazi Alpay GitHub profile details">
 
 <img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories per language">
 
