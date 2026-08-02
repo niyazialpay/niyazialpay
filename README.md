@@ -32,10 +32,6 @@ My primary development ecosystem is **PHP and Laravel**, supported by hands-on e
 
 `PHP` · `Laravel` · `Python` · `REST APIs` · `WebSockets`
 
-### Frontend
-
-`JavaScript` · `Vue.js` · `Inertia.js` · `Bootstrap` · `Tailwind CSS`
-
 ### Databases and Search
 
 `MySQL` · `PostgreSQL` · `MongoDB` · `Redis` · `Memcached` · `Meilisearch`
