@@ -112,18 +112,6 @@ An example application demonstrating Laravel Scout and Meilisearch integration.
 
 ---
 
-### [Laravel Media Library MongoDB](https://github.com/niyazialpay/laravel-medialibrary-mongodb)
-
-MongoDB compatibility and integration work for Laravel Media Library.
-
----
-
-### [WebAuthn MongoDB](https://github.com/niyazialpay/WebAuthn-MongoDB)
-
-WebAuthn and passkey authentication integration for MongoDB-based Laravel applications.
-
----
-
 ### [DigitalOcean OpenVPN Terraform](https://github.com/niyazialpay/DigitalOcean-OpenVPN-Terraform)
 
 Infrastructure automation for deploying OpenVPN resources on DigitalOcean with Terraform.
